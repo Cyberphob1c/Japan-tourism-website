@@ -1,0 +1,57 @@
+body {
+    background-color: lightblue;
+}
+
+p {
+    text-align: center;
+}
+
+#headimage {
+    height: auto;
+    width: 1500px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.tokyoimages {
+    height: auto;
+    width: 700px;
+}
+
+li {
+    padding: 20px;
+    margin-top: 80px;   
+    font-size: 22px;
+    font-weight: 300;
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h2 {
+    margin-top: 80px;
+}
+
+.caption {
+    font-size: 16px;
+    width: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200px;
+    text-align: left;
+}
+
+.subtitles {
+    font-size: 32px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
