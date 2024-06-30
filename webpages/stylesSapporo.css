@@ -1,0 +1,164 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    background-color: hsl(234, 19%, 80%);
+}
+
+/* Centering and formating of significant blocks below */
+
+
+header {
+    background-color: hsl(228, 50%, 62%) ;
+    text-align: center;
+    padding: 50px 50px;
+    margin-bottom: 60px;
+    
+    font-size: 25px;
+    color: hsl(209, 100%, 90%);
+    width: 100%;
+}
+
+
+footer {
+    background-color: hsl(209, 100%, 90%);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 18px;
+
+    width: 100%;
+    margin-bottom: 0px;
+    bottom: 0;
+    clear: both;
+}
+
+
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+
+section {
+    float: left;
+    width: 75%;
+}
+
+section p {
+    font-size: 15px;
+    margin-bottom: 2;
+
+}
+
+aside {
+    float: right;
+    width: 20%;
+    margin-bottom: 50px;
+    background-color: hsla(209, 100%, 70%, 0.2);
+    padding: 10px;
+}
+
+
+/* Centering and formating of significant blocks above */
+
+
+
+
+
+p {
+    font-family: Futura, 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+
+#headimage {
+
+    height: auto;
+    width: 930px;
+    max-width: 1200;
+
+    margin: 80px auto 0px auto;
+}
+
+
+aside li {
+    text-transform: capitalize;
+    list-style: none;
+    text-align: left;
+}
+
+
+.caption {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    width: 500px;
+}
+
+.credits {
+    margin-bottom: 40px;
+    margin-top: 5px;
+    font-size: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+
+li {
+    font-size: 25px;
+    font-family: Futura, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    margin-top: 0px;
+
+
+}
+
+.listimage {
+    height: auto;
+    width: 800px;
+}
+
+ol p {
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 14px;
+    width: 750px;
+
+}
+
+footer {
+    word-spacing: 10px;
+}
+
+.socials {
+    height: auto;
+    width: 30px;
+}
+
+
+/* Styling links below */
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}

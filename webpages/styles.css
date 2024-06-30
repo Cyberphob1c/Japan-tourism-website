@@ -4,6 +4,9 @@ body {
 
 p {
     text-align: center;
+    margin-top: 0x;
+    margin-bottom: 60px;
+    line-height: 2;
 }
 
 #headimage {
@@ -12,11 +15,8 @@ p {
 }
 
 
-ul {
-    list-style-type: none;
-}
-
 h1 {
+
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
     text-align: center;
@@ -28,23 +28,33 @@ h1 {
     width: 700px;
 }
 
+
+ul {
+    list-style-type: none;
+}
+
+
 li {
     padding: 20px;
-    margin-top: 80px;   
-    font-size: 22px;
+    margin-top: 0px; 
+    margin-bottom: 40px; 
+    
+    font-size: 35px;
     font-weight: 300;
     text-align: left;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 h2 {
-    margin-top: 80px;
+    margin-top: 0px;
+    margin-bottom: 60px;
 }
 
 .caption {
     font-size: 16px;
     width: 850px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 200px;
     text-align: left;
 }
@@ -55,3 +65,4 @@ h2 {
     text-decoration: underline;
     font-family: 'Times New Roman', Times, serif;
 }
+
