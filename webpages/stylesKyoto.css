@@ -1,0 +1,144 @@
+
+/* Styling the header, section, aside and footer below */
+
+body {
+    margin: 0;
+    background-color: hsl(68, 40%, 39%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+
+    padding: 20px 0px;
+    background-color: hsl(92, 50%, 10%);
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+    font-size: 40px;
+    color: hsl(35, 73%, 40%);
+    text-align: center;
+    width: 100%;
+}
+
+footer {
+
+    background-color: hsl(114, 48%, 24%);
+    padding: 35px;
+
+    text-align: center;
+    width: 100%;
+    clear: both;
+}
+
+section {
+    float: left;
+    width: 70%;
+}
+
+
+aside {
+    float: right;
+    width: 25%;
+
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+/* Styling the header, section, aside and footer above */
+
+/* Styling links below */
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+/* Styling links above */
+
+
+
+
+
+
+#headimage {
+    height: auto;
+    width: 914px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.listimages {
+    height: auto;
+    width: 650px;
+}
+
+.caption {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    width: 600px;
+}
+
+.credits {
+    margin-bottom: 40px;
+    margin-top: 5px;
+    font-size: 10px;
+}
+
+section p {
+    margin-left: 10px;
+    font-size: 16px;
+    font-family: Futura, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+aside li{
+
+    list-style: none;
+    line-height: 2.5;
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Futura, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+ol li {
+
+    text-transform: capitalize;
+    font-size: 28px;
+    margin-top: 65px;
+    margin-bottom: 30px;
+    font-family: Futura;
+    font-weight: bold;
+}
+
+ol p{
+    margin-bottom: 100px;
+}
+
+.socials {
+    height: auto;
+    width: 30px;
+}
+
